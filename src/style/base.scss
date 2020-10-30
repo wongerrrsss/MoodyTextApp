@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Amatic SC', cursive;
+
+    &:focus {
+        outline: none;
+    }
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.app {
+    width: 100vw; 
+    height: 100vh;
+    background-color: lightblue;
+}
